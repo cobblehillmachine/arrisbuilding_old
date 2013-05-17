@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	thumbPosition="TOP"
+	thumbColumns="7"
+	thumbRows="1"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	stageHPadding="15"
+	titlePosition="NONE"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/xbuild.jpg"
+	thumbURL="thumbs/xbuild.jpg"
+	linkURL="images/xbuild.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/spring08-023.jpg"
+	thumbURL="thumbs/spring08-023.jpg"
+	linkURL="images/spring08-023.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/random365.jpg"
+	thumbURL="thumbs/random365.jpg"
+	linkURL="images/random365.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/random009.jpg"
+	thumbURL="thumbs/random009.jpg"
+	linkURL="images/random009.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PB200043.jpg"
+	thumbURL="thumbs/PB200043.jpg"
+	linkURL="images/PB200043.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P7070828.jpg"
+	thumbURL="thumbs/P7070828.jpg"
+	linkURL="images/P7070828.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P6240013.jpg"
+	thumbURL="thumbs/P6240013.jpg"
+	linkURL="images/P6240013.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P6090496.jpg"
+	thumbURL="thumbs/P6090496.jpg"
+	linkURL="images/P6090496.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0075.jpg"
+	thumbURL="thumbs/IMG_0075.jpg"
+	linkURL="images/IMG_0075.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bfall08-106.jpg"
+	thumbURL="thumbs/bfall08-106.jpg"
+	linkURL="images/bfall08-106.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/afall08-039.jpg"
+	thumbURL="thumbs/afall08-039.jpg"
+	linkURL="images/afall08-039.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P7240077.jpg"
+	thumbURL="thumbs/P7240077.jpg"
+	linkURL="images/P7240077.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13.jpg"
+	thumbURL="thumbs/13.jpg"
+	linkURL="images/13.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	thumbPosition="TOP"
+	thumbColumns="7"
+	thumbRows="1"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	stageHPadding="15"
+	titlePosition="NONE"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/Gazebo(8).jpg"
+	thumbURL="thumbs/Gazebo(8).jpg"
+	linkURL="images/Gazebo(8).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Gazebo(39).jpg"
+	thumbURL="thumbs/Gazebo(39).jpg"
+	linkURL="images/Gazebo(39).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/123-076.jpg"
+	thumbURL="thumbs/123-076.jpg"
+	linkURL="images/123-076.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0983.jpg"
+	thumbURL="thumbs/IMG_0983.jpg"
+	linkURL="images/IMG_0983.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0038.jpg"
+	thumbURL="thumbs/IMG_0038.jpg"
+	linkURL="images/IMG_0038.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0053.jpg"
+	thumbURL="thumbs/IMG_0053.jpg"
+	linkURL="images/IMG_0053.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/spring08-057m.jpg"
+	thumbURL="thumbs/spring08-057m.jpg"
+	linkURL="images/spring08-057m.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/random381.jpg"
+	thumbURL="thumbs/random381.jpg"
+	linkURL="images/random381.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PA090098.jpg"
+	thumbURL="thumbs/PA090098.jpg"
+	linkURL="images/PA090098.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1049.jpg"
+	thumbURL="thumbs/IMG_1049.jpg"
+	linkURL="images/IMG_1049.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1018.jpg"
+	thumbURL="thumbs/IMG_1018.jpg"
+	linkURL="images/IMG_1018.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

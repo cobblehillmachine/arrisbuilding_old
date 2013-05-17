@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	maxImageWidth="600"
+	maxImageHeight="600"
+	imageQuality="99"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	cropToFit="false"
+	backgroundColor="FFFFFF"
+	thumbPosition="TOP"
+	thumbColumns="7"
+	thumbRows="1"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	stageHPadding="15"
+	titlePosition="NONE"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/tf2_Page_2.jpg"
+	thumbURL="thumbs/tf2_Page_2.jpg"
+	linkURL="images/tf2_Page_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tf2_Page_5.jpg"
+	thumbURL="thumbs/tf2_Page_5.jpg"
+	linkURL="images/tf2_Page_5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/roof.jpg"
+	thumbURL="thumbs/roof.jpg"
+	linkURL="images/roof.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/newpicglobecopy.jpg"
+	thumbURL="thumbs/newpicglobecopy.jpg"
+	linkURL="images/newpicglobecopy.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/gunstock.jpg"
+	thumbURL="thumbs/gunstock.jpg"
+	linkURL="images/gunstock.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d202-04008.jpg"
+	thumbURL="thumbs/d202-04008.jpg"
+	linkURL="images/d202-04008.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/d202-02_finished.jpg"
+	thumbURL="thumbs/d202-02_finished.jpg"
+	linkURL="images/d202-02_finished.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ADKBarn.2d-cadwork2d6_Page_2.jpg"
+	thumbURL="thumbs/ADKBarn.2d-cadwork2d6_Page_2.jpg"
+	linkURL="images/ADKBarn.2d-cadwork2d6_Page_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ADKBarnTimberFrame_Page_4.jpg"
+	thumbURL="thumbs/ADKBarnTimberFrame_Page_4.jpg"
+	linkURL="images/ADKBarnTimberFrame_Page_4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ADKBarn.2dcadwork.jpg"
+	thumbURL="thumbs/ADKBarn.2dcadwork.jpg"
+	linkURL="images/ADKBarn.2dcadwork.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/buildingmasu2.jpg"
+	thumbURL="thumbs/buildingmasu2.jpg"
+	linkURL="images/buildingmasu2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/barnlogo.jpg"
+	thumbURL="thumbs/barnlogo.jpg"
+	linkURL="images/barnlogo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ADKBarnTimberFrame_Page_5.jpg"
+	thumbURL="thumbs/ADKBarnTimberFrame_Page_5.jpg"
+	linkURL="images/ADKBarnTimberFrame_Page_5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ADKBarn.2d-cadwork2d6_Page_1.jpg"
+	thumbURL="thumbs/ADKBarn.2d-cadwork2d6_Page_1.jpg"
+	linkURL="images/ADKBarn.2d-cadwork2d6_Page_1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
